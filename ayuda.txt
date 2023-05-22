@@ -1,0 +1,2 @@
+Hola, 
+La clase LibreriaDAO nos permite interactuar con la base de datos.
